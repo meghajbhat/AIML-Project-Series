@@ -1,3 +1,6 @@
+NAME : MEGHA BHAT
+EMAIL : meghajbhat@gmail.com
+
 requests - for making HTTP requests.
 urllib3 - for handling URL operations and managing SSL warnings.
 openai - for interacting with the OpenAI API.
