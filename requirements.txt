@@ -1,0 +1,17 @@
+requests - for making HTTP requests.
+urllib3 - for handling URL operations and managing SSL warnings.
+openai - for interacting with the OpenAI API.
+
+
+Install the libraries using 'pip':
+	pip install -r requirements.txt
+
+You can install the libraries individually also:
+	1) requests
+		pip install requests
+	
+	2)urllib3
+		pip install urllib3
+	
+	3)openai
+		pip install openai
